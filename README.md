@@ -68,4 +68,4 @@
    *  Web and Desktop Application Deployment
    *  Handling App Updates
 
-N.B: Personal Note try not to take it seriously. 
+**N.B: Personal Note try not to take it seriously.**
