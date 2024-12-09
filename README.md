@@ -67,3 +67,5 @@
    *  Publishing to Play Store and App Store
    *  Web and Desktop Application Deployment
    *  Handling App Updates
+
+N.B: Personal Note try not to take it seriously. 
