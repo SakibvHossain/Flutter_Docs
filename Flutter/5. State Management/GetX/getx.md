@@ -3,10 +3,10 @@
 GetX is a lightweight, fast, and powerful state management solution for Flutter. It also provides routing and dependency injection capabilities. Follow this guide to start practicing GetX effectively.
 
 ### Index
-1.  [Setting Up GetX](https://github.com/SakibvHossain/Flutter_Docs/blob/main/Flutter/5.%20State%20Management/GetX/getx.md#1-setting-up-getx)
-2.  [State Management Basics](https://github.com/SakibvHossain/Flutter_Docs/blob/main/Flutter/5.%20State%20Management/GetX/getx.md#2-state-management-basics)
-3.  [Navigation with GetX]()
-4.  [Dependency Injection]()
+1.  [Setting Up GetX](getx.md#1-setting-up-getx)
+2.  [State Management Basics](getx.md#2-state-management-basics)
+3.  [Navigation with GetX](getx.md#3-navigation-with-getx)
+4.  [Dependency Injection](getx.md#4-dependency-injection)
 5.  [Snackbar, Dialog, and BottomSheet](getx.md#5-snackbar-dialog-and-bottomsheet)
 
 ---
