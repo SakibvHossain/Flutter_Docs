@@ -220,15 +220,9 @@ void main() {
 
 ---
 
-
-### Encapsulation
-### Inheritance
-### Polymorphism
-### Abstraction
-
-### Final vs Const vs Late
-
 ### ? vs ??
+*  Use `?` for declaring nullable types or for null-aware access (?.).
+*  Use `??` to provide a fallback value for potentially null expressions. FallBack means **default value** or **behavior**.
 
 ## Abstract vs Concrete (Class, Method, Fields)
 ### Abstract
