@@ -1,8 +1,8 @@
 # Provider
 A provider is a third-party library. Here, we need to understand three main concepts to use this library.
-1.  ChangeNotifier
-2.  ChangeNotifierProvider
-3.  Consumer
+1.  **ChangeNotifier**
+2.  **ChangeNotifierProvider**
+3.  **Consumer**
 
 ### 1. ChangeNotifier
 It is used for the listener to observe a model for changes. If you extends ChangeNotifier means that your going to use that class as a controller class. Then if you logic done don't forget to add `notifyListener()` method to inform the listeners.
