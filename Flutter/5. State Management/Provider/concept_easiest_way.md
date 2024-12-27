@@ -1,5 +1,5 @@
 # Provider
-A provider is a third-party library. Here, we need to understand three main concepts to use this library.
+A **provider** is a third-party library. Here, we need to understand three main concepts to use this library.
 1.  **ChangeNotifier**
 2.  **ChangeNotifierProvider**
 3.  **Consumer**
